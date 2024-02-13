@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+#IntelliJ
+.idea/
+.mvn/
+mvnw
+mvnw.cmd
+
+
+
